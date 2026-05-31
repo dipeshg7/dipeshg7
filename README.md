@@ -19,7 +19,21 @@
 - Data Entry
 - Git & GitHub
 
-💼 Experience
+🚀 Projects
+- Internship Project- "AI-Powered Basketball Player Tracking and Performance Analysis System"
+- IEEE Research Project- "Intelligent Skin Cancer Detection Using Hybrid Deep Learning and Machine Learning Models"
+
+📜 Certifications
+
+- 🎯 Enhancing Soft Skills and Personality
+- 📚 Introduction to Algorithms and Analysis
+- 🌐 WordPress Development
+- 🎨 Web Designing
+- 🔒 Cyber Security
+- 🏆 Internship Completion Certificate
+- 🏅 Project Completion Certificate
+
+💼 Work Experience
 
 EPR Executive | Matrimony.com Limited
 
