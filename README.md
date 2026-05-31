@@ -52,6 +52,6 @@ EPR Executive | Matrimony.com Limited
 
 📫 Contact
 
-💼 LinkedIn: Your LinkedIn Profile
+💼 LinkedIn: https://www.linkedin.com/in/dipesh-g7
 
 📧 Email: gdipesh258@gmail.com
