@@ -22,6 +22,7 @@
 💼 Experience
 
 EPR Executive | Matrimony.com Limited
+
 📅 Duration: 3 Months
 
 - 📋 Maintained and verified customer records
@@ -38,4 +39,5 @@ EPR Executive | Matrimony.com Limited
 📫 Contact
 
 💼 LinkedIn: Your LinkedIn Profile
+
 📧 Email: gdipesh258@gmail.com
