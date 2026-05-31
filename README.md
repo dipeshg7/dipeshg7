@@ -1,16 +1,41 @@
-## Hi there 👋
+ Hi, I'm DIPESH G 👋
 
-<!--
-**dipeshg7/dipeshg7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student
 
-Here are some ideas to get you started:
+🎓 BSc Computer Science Graduate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Former EPR Executive at Matrimony.com Limited
+
+💻 Skills
+
+- HTML
+- CSS
+- JavaScript
+- Java
+- SQL
+- Database Fundamentals
+- Microsoft Excel
+- Microsoft Word
+- Data Entry
+- Git & GitHub
+
+💼 Experience
+
+EPR Executive | Matrimony.com Limited
+📅 Duration: 3 Months
+
+- 📋 Maintained and verified customer records
+- 📊 Worked with Excel and data management tasks
+- ✅ Ensured data accuracy and quality
+- 🗂️ Handled data entry and record updates
+
+🚀 Interests
+
+- Web Development
+- Databases
+- Software Technologies
+
+📫 Contact
+
+💼 LinkedIn: Your LinkedIn Profile
+📧 Email: gdipesh258@gmail.com
