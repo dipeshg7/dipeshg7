@@ -1,6 +1,6 @@
  Hi, I'm DIPESH G 👋
 
-🎓 MCA Student
+🎓 MCA Graduate (Awaiting Results)
 
 🎓 BSc Computer Science Graduate
 
@@ -21,7 +21,15 @@
 
 🚀 Projects
 - Internship Project- "AI-Powered Basketball Player Tracking and Performance Analysis System"
-- IEEE Research Project- "Intelligent Skin Cancer Detection Using Hybrid Deep Learning and Machine Learning Models"
+- IEEE Published Research Paper - "Intelligent Skin Cancer Detection Using Hybrid Deep Learning and Machine Learning Models"
+
+📚 Publications
+
+- IEEE Conference Publication:
+  "Intelligent Skin Cancer Detection Using Hybrid Deep Learning and Machine Learning Models"
+
+  🔗 Publication Link: https://ieeexplore.ieee.org/document/11518017
+  
 
 📜 Certifications
 
@@ -55,3 +63,5 @@ EPR Executive | Matrimony.com Limited
 💼 LinkedIn: https://www.linkedin.com/in/dipesh-g7
 
 📧 Email: gdipesh258@gmail.com
+
+🌐 GitHub: https://github.com/dipeshg7
